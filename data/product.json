@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Portağal",
+        "description": "Portağal Türkiyə",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTklKlmnjMAQVp3chJJrZiAGT3nfZ0JekA43hwF1Wenqg&s=10",
+        "price": "1.99",
+        "discount": "33%",
+        "discountPrice": "1.33"
+    },
+    {
+        "name": "Alma",
+        "description": "Alma Azərbaycan",
+        "img": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400",
+        "price": "2.50",
+        "discount": "15%",
+        "discountPrice": "2.13"
+    },
+    {
+        "name": "Banan",
+        "description": "Banan Ekvador",
+        "img": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400",
+        "price": "3.20",
+        "discount": "20%",
+        "discountPrice": "2.56"
+    },
+    {
+        "name": "Çiyələk",
+        "description": "Çiyələk Azərbaycan",
+        "img": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=400",
+        "price": "4.99",
+        "discount": "10%",
+        "discountPrice": "4.49"
+    },
+    {
+        "name": "Üzüm",
+        "description": "Üzüm Türkiyə",
+        "img": "https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=400",
+        "price": "3.99",
+        "discount": "25%",
+        "discountPrice": "2.99"
+    },
+    {
+        "name": "Ananas",
+        "description": "Ananas Kosta Rika",
+        "img": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?w=400",
+        "price": "5.50",
+        "discount": "12%",
+        "discountPrice": "4.84"
+    },
+    {
+        "name": "Qarpız",
+        "description": "Qarpız Azərbaycan",
+        "img": "https://images.unsplash.com/photo-1563114773-84221bd62daa?w=400",
+        "price": "2.99",
+        "discount": "18%",
+        "discountPrice": "2.45"
+    },
+    {
+        "name": "Kivi",
+        "description": "Kivi İran",
+        "img": "https://images.unsplash.com/photo-1585059895524-72359e06133a?w=400",
+        "price": "3.49",
+        "discount": "20%",
+        "discountPrice": "2.79"
+    },
+    {
+        "name": "Manqo",
+        "description": "Manqo Hindistan",
+        "img": "https://images.unsplash.com/photo-1553279768-865429fa0078?w=400",
+        "price": "4.50",
+        "discount": "15%",
+        "discountPrice": "3.83"
+    },
+    {
+        "name": "Şaftalı",
+        "description": "Şaftalı Türkiyə",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQspykefTgvNE4t5DZih4DbrH-eKZOOtyKfTRC2uUn3fQ&s=10",
+        "price": "3.80",
+        "discount": "10%",
+        "discountPrice": "3.42"
+    },
+    {
+        "name": "Pomidor",
+        "description": "Pomidor Azərbaycan",
+        "img": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?w=400",
+        "price": "2.20",
+        "discount": "15%",
+        "discountPrice": "1.87"
+    },
+    {
+        "name": "Xiyar",
+        "description": "Xiyar Azərbaycan",
+        "img": "https://images.unsplash.com/photo-1604977042946-1eecc30f269e?w=400",
+        "price": "1.50",
+        "discount": "20%",
+        "discountPrice": "1.20"
+    },
+    {
+        "name": "Kök",
+        "description": "Kök Azərbaycan",
+        "img": "https://images.unsplash.com/photo-1445282768818-728615cc910a?w=400",
+        "price": "1.80",
+        "discount": "10%",
+        "discountPrice": "1.62"
+    },
+    {
+        "name": "Kartof",
+        "description": "Kartof Azərbaycan",
+        "img": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400",
+        "price": "1.20",
+        "discount": "5%",
+        "discountPrice": "1.14"
+    },
+    {
+        "name": "Soğan",
+        "description": "Soğan Azərbaycan",
+        "img": "https://images.unsplash.com/photo-1508747703725-719777637510?w=400",
+        "price": "0.99",
+        "discount": "10%",
+        "discountPrice": "0.89"
+    },
+    {
+        "name": "Bibər",
+        "description": "Bibər Türkiyə",
+        "img": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?w=400",
+        "price": "2.80",
+        "discount": "15%",
+        "discountPrice": "2.38"
+    },
+    {
+        "name": "Brokoli",
+        "description": "Brokoli İtaliya",
+        "img": "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?w=400",
+        "price": "3.60",
+        "discount": "20%",
+        "discountPrice": "2.88"
+    },
+    {
+        "name": "Gül kələmi",
+        "description": "Gül kələmi Azərbaycan",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXkUSb-nIj0FEI63s4qDprrGKpkJfSDt0Rc7BpKVI6w&s=10",
+        "price": "2.70",
+        "discount": "10%",
+        "discountPrice": "2.43"
+    },
+    {
+        "name": "Süd",
+        "description": "Təbii süd 1 litr",
+        "img": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=400",
+        "price": "2.40",
+        "discount": "15%",
+        "discountPrice": "2.04"
+    },
+    {
+        "name": "Pendir",
+        "description": "Holland pendiri",
+        "img": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=400",
+        "price": "6.99",
+        "discount": "20%",
+        "discountPrice": "5.59"
+    },
+    {
+        "name": "Yumurta",
+        "description": "Kənd yumurtası 10 ədəd",
+        "img": "https://images.unsplash.com/photo-1506976785307-8732e854ad03?w=400",
+        "price": "3.99",
+        "discount": "10%",
+        "discountPrice": "3.59"
+    },
+    {
+        "name": "Çörək",
+        "description": "Təzə buğda çörəyi",
+        "img": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
+        "price": "0.80",
+        "discount": "5%",
+        "discountPrice": "0.76"
+    },
+    {
+        "name": "Kərə yağı",
+        "description": "Təbii kərə yağı",
+        "img": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=400",
+        "price": "8.50",
+        "discount": "25%",
+        "discountPrice": "6.38"
+    },
+    {
+        "name": "Qarpız yemişi",
+        "description": "Yemiş Türkiyə",
+        "img": "https://images.unsplash.com/photo-1571575173700-afb9492e6a50?w=400",
+        "price": "3.50",
+        "discount": "15%",
+        "discountPrice": "2.98"
+    },
+    {
+        "name": "Avokado",
+        "description": "Avokado Peru",
+        "img": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=400",
+        "price": "4.99",
+        "discount": "30%",
+        "discountPrice": "3.49"
+    }
+]

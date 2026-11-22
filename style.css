@@ -9,17 +9,14 @@ body {
     width: 100%;
     height: 100vh;
     display: flex;
-    /* justify-content: center; */
     align-items: center;
     flex-direction: column;
     background-color: rgb(217, 247, 217) !important;
-    /* padding-top: 20px; */
 
 }
 
 header {
     width: 100%;
-    /* height: 20vh; */
     background: #fff;
     box-shadow: 0px 1px 8px 0px #0000000A;
     backdrop-filter: blur(48px);
@@ -100,12 +97,10 @@ header {
 
 .box {
     width: 250px;
-    /* height: 300px; */
     background-color: white;
     border-radius: 15px;
     display: flex;
     justify-content: center;
-    /* align-items: center; */
     flex-direction: column;
     padding: 15px;
 
